@@ -1,21 +1,21 @@
 # ✒️ MathsPen - Ultimate Web Drawing Tool
 
-![MathPen Banner](image.png)
+![MathsPen Banner](image.png)
 
 ![Version](https://img.shields.io/badge/version-25.0-blue.svg?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Chrome-yellow.svg?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
 ![Size](https://img.shields.io/badge/size-lightweight-orange.svg?style=flat-square)
 
-**MathPen**, web sayfalarını, PDF'leri ve yerel dosyaları sonsuz bir çalışma tuvaline dönüştüren profesyonel bir Chrome Uzantısıdır. Mühendisler, öğretmenler ve öğrenciler için özel olarak tasarlanmıştır.
+**MathsPen**, web sayfalarını, PDF'leri ve yerel dosyaları sonsuz bir çalışma tuvaline dönüştüren profesyonel bir Chrome Uzantısıdır. Mühendisler, öğretmenler ve öğrenciler için özel olarak tasarlanmıştır.
 
 > **Önemli:** Akıllı tahtalar ve dokunmatik ekranlar için özel olarak optimize edilmiştir.
 
 ---
 
-## 🌟 Neden MathPen?
+## 🌟 Neden MathsPen?
 
-MathPen sıradan bir çizim aracı değildir. Web tarayıcısının sınırlarını zorlayan özel mühendislik çözümleri içerir:
+MathsPen sıradan bir çizim aracı değildir. Web tarayıcısının sınırlarını zorlayan özel mühendislik çözümleri içerir:
 
 ### 🚀 Öne Çıkan Teknolojiler
 
@@ -55,11 +55,11 @@ Bu proje açık kaynaklıdır ve manuel olarak kurulur:
 2.  Chrome tarayıcısında adres çubuğuna `chrome://extensions` yazın.
 3.  Sağ üst köşedeki **"Geliştirici Modu" (Developer Mode)** anahtarını açın.
 4.  Sol üstteki **"Paketlenmemiş öğe yükle" (Load Unpacked)** butonuna tıklayın.
-5.  İndirdiğiniz `MathPen` klasörünü seçin.
+5.  İndirdiğiniz `MathsPen` klasörünü seçin.
 
 ### 📂 Masaüstü Dosyaları Üzerinde Çalışmak İçin (Önemli!)
 PDF veya bilgisayarınızdaki resimlerin üzerine çizim yapmak istiyorsanız:
-1.  Uzantılar sayfasında MathPen kartındaki **"Ayrıntılar"** butonuna tıklayın.
+1.  Uzantılar sayfasında MathsPen kartındaki **"Ayrıntılar"** butonuna tıklayın.
 2.  Aşağı kaydırın ve **"Dosya URL'lerine erişime izin ver"** seçeneğini aktif hale getirin.
 
 ---
